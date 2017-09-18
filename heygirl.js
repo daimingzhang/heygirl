@@ -32,7 +32,7 @@ function Gosling(ratio, imageurl){
  }
 
 var myGosling = [ 
-new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-1.png"), 
+new Gosling("horizontal", "http://daimingzhang.github.io/heygirl/kobe/horizontal1.jpg"), 
 new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-2.gif"), 
 new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-3.jpg"),
 new Gosling("horizontal", "http://heygirl.io/img/gosling-horiz-4.gif"), 
